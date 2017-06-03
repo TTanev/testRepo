@@ -5,5 +5,6 @@ i made some (conflicting maybe?) changes
 made some changes from GITHUB!
 
 dev branch has new stuff here
-
 changes from master branch
+dev branch made more new stuff here
+
